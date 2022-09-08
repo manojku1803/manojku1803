@@ -1,4 +1,6 @@
 ### Hi there 👋
+Myself manoj kumar Pradhan 
+Currently on a track of learning web dev 
 
 <!--
 **manojku1803/manojku1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
