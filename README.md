@@ -7,21 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/mxnoj18" target="blank"><img src="https://img.shields.io/twitter/follow/mxnoj18?logo=twitter&style=for-the-badge" alt="mxnoj18" /></a> </p>
 
-- 🔭 I’m currently working on [Mystry Messages](https://mystry-messages-gamma.vercel.app/dashboard)
-
-- 🌱 I’m currently learning **Next.js, Rust, etc.**
-
-- 👯 I’m looking to collaborate on [Cashew Leaf Disease Detection](https://github.com/manojku1803/Cashew_Leaf_Disease_Detection)
-
-- 🤝 I’m looking for help with [Hello Chat](https://hello-chat-web-g15h.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://manoj-portfolio-git-main-manojku1803s-projects.vercel.app/](https://manoj-portfolio-git-main-manojku1803s-projects.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript, TypeScript, etc.**
+- 💬 Ask me about **React, JavaScript, TypeScript, Next.js etc.**
 
 - 📫 How to reach me **manojpradhan1803@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-u7c80_DEfcYOGGyrK7lBSzpkIttplXO/view?usp=sharing](https://drive.google.com/file/d/1-u7c80_DEfcYOGGyrK7lBSzpkIttplXO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-u7c80_DEfcYOGGyrK7lBSzpkIttplXO/view?usp=sharing](https://drive.google.com/file/d/18E3tkhlhFKrjW7v75P3IIOOOs1zHYajd/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny.**
 
